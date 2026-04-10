@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Sutar</h1>
+
 <h3 align="center">Aspiring Software Engineer from India</h3>
 
 ---
