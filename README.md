@@ -1,32 +1,56 @@
-
-<h3 align="center">Aspiring Software Engineer from India</h3>
-
----
-
 <h1 align="center">Hi 👋, I'm Utkarsh Sutar</h1>
+<h3 align="center">Aspiring Software Engineer | Java Developer | Full Stack Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Java+Developer;Full+Stack+Learner;Tech+Enthusiast&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Java+Developer;Full+Stack+Developer;Tech+Enthusiast&center=true&width=500&height=50">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <a href="mailto:your-email@example.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/utkarsh-sutar-6254572a2/">LinkedIn</a> •
+  <a href="https://github.com/MrUtkarshsutar">GitHub</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
-* 🎓 Software Engineering Student
-* 💻 Passionate about Web Development & AI
-* 🚀 Currently building **Timetable Dashboard System**
-* 🤖 Developed **SynergyBot Java Chatbot**
-* 🌱 Learning **React, Node.js & Advanced Java**
-* ⚡ Goal: Become a Full Stack Developer
+I’m **Utkarsh Sutar**, a passionate Software Engineering student focused on building **real-world applications, intelligent systems, and scalable solutions**.
+
+I enjoy solving complex problems and turning ideas into practical software products.
+
+🏢 Currently working on academic and personal projects to strengthen my development skills
+💻 Exploring modern technologies in **Full Stack Development & AI-based systems**
+🚀 Goal: Become a highly skilled **Full Stack Developer & Software Engineer**
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 What I Do
+
+🌐 Full Stack Web Development
+🤖 AI-based Applications & Smart Systems
+📊 System Design & Optimization
+⚙️ Backend Development & Logic Building
+🎯 Real-world project development
+
+---
+
+## 🚀 Interests
+
+🤖 Artificial Intelligence & Automation
+🧠 Problem Solving & System Design
+📚 Continuous Learning
+💡 Building useful and smart tools
+
+---
+
+## 📌 Philosophy
+
+> "Build smart. Learn deeply. Grow consistently 🚀"
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,html,css,js,nodejs,react,github,vscode" />
@@ -36,28 +60,30 @@
 
 ## 🚀 Featured Projects
 
-🔹 **📊 Timetable Dashboard System**
+### 📊 Timetable Dashboard System
 
-* Smart scheduling system with drag & drop
-* Auto timetable generation
+* Smart scheduling system with constraints
+* Drag-and-drop editable interface
+* Optimized timetable generation
 
-🔹 **🤖 SynergyBot (Java Chatbot)**
+### 🤖 SynergyBot (Java Chatbot)
 
-* Voice assistant support
+* Voice assistant integration
 * Scientific calculator features
+* Interactive chatbot system
 
-🔹 **🌐 Portfolio Website**
+### 🌐 Portfolio Website
 
 * Responsive design
 * Clean UI/UX
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrUtkarshsutar&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=MrUtkarshsutar&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -65,7 +91,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=MrUtkarshsutar&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
@@ -73,7 +99,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrUtkarshsutar&theme=tokyo-night" />
 </p>
 
 ---
@@ -81,19 +107,19 @@
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/utkarsh-sutar-6254572a2/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
 
-## 💡 Quote
+## 🔥 Quote
 
-> "Code. Learn. Build. Repeat 🚀"
+> "Programming isn't about what you know; it's about what you can figure out."
 
 ---
 
 <p align="center">
-  ⭐ Don't forget to star your favorite repositories!
+  🚀 Let's build something amazing!
 </p>
 
